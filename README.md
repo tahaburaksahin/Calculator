@@ -1,3 +1,9 @@
+
+![xrv4oR](https://github.com/tahaburaksahin/Calculator/assets/99183230/4b406bc1-535d-41dd-b2b8-e0f7680b8b72)
+![v44Sgv](https://github.com/tahaburaksahin/Calculator/assets/99183230/656e72b7-b2a0-4a1e-b8d3-7b2b0150aba0)
+![Nu88d4](https://github.com/tahaburaksahin/Calculator/assets/99183230/b679549e-0e8b-4fea-bb78-fa4806292d54)
+
+
 # Simple Java Calculator
 
 This calculator is created using the Java programming language with the Swing library. It is a basic calculator capable of performing fundamental mathematical operations.
